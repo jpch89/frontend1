@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>复合样式 - 背景样式合并</title>
+    <style type="text/css">
+        #div1 {
+            width: 800px;
+            height: 800px;
+            /* 背景的复合样式
+            可以随便更换位置
+            但是定位position的x和y不要拆开来 */
+            background: gray url(img/panda_ball.jpg) no-repeat 100px 0px fixed;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1"></div>
+</body>
+</html>

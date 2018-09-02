@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+        #div1 {
+            width: 1000px;
+            /* 单位还有%，em，mm，cm */
+            height: 600px;
+            /* 颜色模式有三种
+               单词模式：red, green, pink等
+               十六进制模式：#颜色值 #0CC
+               颜色值：rgb(红, 绿, 蓝) */
+            background-color: #ccc;
+            background-image: url(img/basketball_boy.jpg);
+            /* 平铺方法
+                background-repeat: no-repeat;
+                no-repeat 不平铺
+                repeat-x 水平平铺
+                repeat-y 垂直平铺 */
+
+            /* 背景定位: x y
+                background-position: 50% 30px;
+                100px 30px
+                10% 50%
+                left/center/right top/center/bottom */
+
+            /* x方向平铺，设置位置在x轴有偏移，不会空白，会自动补全
+            y方向一样
+            background-repeat: repeat-x;
+            background-position: 200px 0px;
+            */
+            
+            background-repeat: no-repeat;
+            /* 背景定位可以设置负值 */
+            background-position: -100px 0px;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="div1"></div>
+</body>
+</html>

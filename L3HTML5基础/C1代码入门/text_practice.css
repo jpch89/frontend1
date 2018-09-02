@@ -1,0 +1,20 @@
+/*
+* @Author: jpch89
+* @Date:   2018-06-28 11:33:18
+* @Last Modified by:   jpch89
+* @Last Modified time: 2018-06-28 11:54:31
+*/
+div{
+    width: 353px;
+    height: 40px;
+    border-bottom: 10px solid #c6cad7;
+    background-image: url(img_text_practice/bg.gif);
+    font-size: 16px;
+    font-family: "宋体";
+    line-height: 40px;
+    word-spacing: 42px;
+}
+
+#div8{
+    border-bottom: none;
+}

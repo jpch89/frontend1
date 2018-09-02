@@ -1,0 +1,47 @@
+/*
+* @Author: jpch89
+* @Date:   2018-06-26 20:44:53
+* @Last Modified by:   jpch89
+* @Last Modified time: 2018-06-26 21:00:33
+*/
+#div1{
+    width: 500px;
+    height: 120px;
+    background-image: url(img_bg_practice/head.gif);
+}
+
+#div2{
+    width: 496px;
+    height: 100px;
+    border-right: 2px solid #a9e8f7;
+    border-bottom: 2px solid #ecf4fa;
+    border-left: 2px solid #a9e8f7;
+    background: #f8d7de url(img_bg_practice/mail.gif) no-repeat 39px 36px scroll;
+}
+
+#div3{
+    width: 496px;
+    height: 100px;
+    border-right: 2px solid #a9e8f7;
+    border-bottom: 2px solid #ecf4fa;
+    border-left: 2px solid #a9e8f7;
+    background: #f8d7de url(img_bg_practice/mouse.gif) no-repeat 39px 30px scroll;
+}
+
+#div4{
+    width: 496px;
+    height: 100px;
+    border-right: 2px solid #a9e8f7;
+    border-bottom: 2px solid #ecf4fa;
+    border-left: 2px solid #a9e8f7;
+    background: #fbe7eb url(img_bg_practice/smile.gif) no-repeat 39px 33px scroll;
+}
+
+#div5{
+    width: 496px;
+    height: 192px;
+    border-right: 2px solid #a9e8f7;
+    border-bottom: 2px solid #a9e8f7;
+    border-left: 2px solid #a9e8f7;
+    background: #fdf3f5 url(img_bg_practice/star.gif) no-repeat 39px 32px scroll; 
+}

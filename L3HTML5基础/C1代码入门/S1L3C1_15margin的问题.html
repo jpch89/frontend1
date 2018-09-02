@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>margin的问题</title>
+    <style type="text/css">
+        #div1{
+            height: 50px;
+            background-color: pink;
+            margin: 100px 100px 100px 100px;
+        }
+        #div2{
+            height: 50px;
+            background-color: yellow;
+            margin: 100px 100px 100px 100px;
+        }
+        #box{
+            background: red;
+            border: 1px solid black;
+        }
+    </style>
+    <!-- 
+        margin 的问题：
+        1. margin-top 向父级传递
+            父级添加边框即可
+        2. margin 上下叠加
+        
+     -->
+</head>
+<body>
+    <div id="box">
+        <div id="div1">div1</div>
+        <div id="div2">div2</div>
+    </div>
+</body>
+</html>

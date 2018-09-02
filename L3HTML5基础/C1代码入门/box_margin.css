@@ -1,0 +1,116 @@
+/*
+* @Author: jpch89
+* @Date:   2018-06-29 16:02:56
+* @Last Modified by:   jpch89
+* @Last Modified time: 2018-06-29 18:16:04
+*/
+
+#up7{
+    width: 113px;
+    height: 113px;
+    background-color: #e56d76;
+    border: 2px solid white;
+    margin: 43px 38px 38px 43px;
+}
+
+#up6{
+    width: 198px;
+    height: 198px;
+    background-color: #bfc649;
+    border: 1px dashed white;
+    margin: 7px;
+}
+
+#up5{
+    width: 214px;
+    height: 214px;
+    background-color: #faec4d;
+    border: 1px dashed white;
+    margin: 30px;
+}
+
+#up4{
+    width: 276px;
+    height: 276px;
+    background-color: #fdad5f;
+    border: 1px dotted white;
+    margin: 33px;
+}
+
+#up3{
+    width: 346px;
+    height: 346px;
+    background-color: #ea8891;
+    border: 2px solid white;
+    margin: 32px;
+}
+
+#up2{
+    width: 414px;
+    height: 414px;
+    background-color: #e56b75;
+    border: 3px dashed white;
+    margin: 90px 140px 88px 140px;
+}
+
+#up1{
+    width: 698px;
+    height: 598px;
+    background-color: #e56d76;
+    border: 1px solid #e56d76;
+}
+
+#dn7{
+    width: 113px;
+    height: 113px;
+    background-color: #bae1fd;
+    border: 2px dashed white;
+    margin: 43px 38px 38px 43px;
+}
+
+#dn6{
+    width: 198px;
+    height: 198px;
+    background-color: #b7b3e5;
+    border: 1px dashed white;
+    margin: 7px;
+}
+
+#dn5{
+    width: 214px;
+    height: 214px;
+    background-color: #b9e0fe;
+    border: 1px dashed white;
+    margin: 30px;
+}
+
+#dn4{
+    width: 276px;
+    height: 276px;
+    background-color: #9dc4f5;
+    border: 2px dashed white;
+    margin: 32px;
+}
+
+#dn3{
+    width: 344px;
+    height: 344px;
+    background-color: #c5acdb;
+    border: 3px dashed #bae1fd;
+    margin: 30px;
+}
+
+#dn2{
+    width: 410px;
+    height: 410px;
+    background-color: #3c3b4b;
+    border: 5px solid #f38db9;
+    margin: 92px 140px 89px 140px;
+}
+
+#dn1{
+    width: 698px;
+    height: 599px;
+    background-color: #3c3b4b;
+    border: 1px solid #3c3b4b;
+}
